@@ -1,0 +1,2 @@
+xterm -e "cd .. && make" &
+xterm -hold -e "cd .. && ./kernel ./cfg/kernel_base_fifo.config" &

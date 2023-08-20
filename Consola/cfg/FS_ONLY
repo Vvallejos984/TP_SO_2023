@@ -1,0 +1,8 @@
+F_OPEN Consoles
+F_TRUNCATE Consoles 256
+F_SEEK Consoles 128
+F_OPEN Videogames
+F_TRUNCATE Videogames 64
+F_SEEK Videogames 0
+F_CLOSE Videogames
+EXIT
